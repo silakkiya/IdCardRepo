@@ -1,0 +1,15 @@
+.input-group{
+    text-align: left;
+    display: block;
+}
+input:required:invalid {
+    border: 1px solid red;
+}
+.span-for-errors{
+    display: none;
+}
+.h3{
+    text-align: center;
+    /* text-decoration-color: darkred;
+    text-align: 57; */
+}
